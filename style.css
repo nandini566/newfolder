@@ -77,7 +77,7 @@ section{
     align-items: center;
     /* text-align: left; */
 }
-.line1 h1,p{
+.line1 h1>p{
     padding-left: 35px;
 }
 
